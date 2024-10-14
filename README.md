@@ -15,8 +15,8 @@ O Saudogs é um sistema desenvolvido para facilitar a gestão de clínicas veter
 
 - JDK {JDK 11}
 - Maven {Maven 3.6.3} 
-- <Postman>
-- <Swagger>
+-'Postman'
+-'Swagger'
 
 ## Instalação
 
